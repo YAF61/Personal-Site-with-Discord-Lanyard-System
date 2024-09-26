@@ -16,4 +16,7 @@ EN:
 2. You can customize the Spotify song and the hrefs of the other buttons as you like.
 
 3. The site's theme is currently set to Turkish, but you can change the language yourself if you wish.
+
+
+
 ![yaf - Personal-Site Photo](https://github.com/user-attachments/assets/14db6820-53ed-4f46-85f8-948f33d0191a)
