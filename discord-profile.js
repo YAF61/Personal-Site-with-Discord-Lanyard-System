@@ -1,4 +1,4 @@
-fetch('https://api.lanyard.rest/v1/users/902170576574115890')
+fetch('https://api.lanyard.rest/v1/users/discordidnigir - enter your discord id')
   .then(response => response.json())
   .then(data => {
     const avatarUrl = `https://cdn.discordapp.com/avatars/${data.data.discord_user.id}/${data.data.discord_user.avatar}.png`;
